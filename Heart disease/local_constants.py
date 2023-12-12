@@ -1,0 +1,2 @@
+PROJECT_NAME='myfirst-377712'
+PROJECT_STORAGE_BUCKET='myfirst-377712.appspot.com'

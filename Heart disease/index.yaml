@@ -1,0 +1,21 @@
+indexes:
+- kind: Client
+  properties:
+    - name: name
+    - name: surname
+    - name: sex
+    - name: age
+    - name: bmi
+    - name: race
+    - name: smoke
+    - name: alcohol
+    - name: stroke
+    - name: diabetes
+    - name: asthma
+    - name: kidneydisease
+    - name: skincancer
+    - name: diffwalking
+    - name: physicalactivity
+    - name: physicalhealth
+    - name: mentalhealth
+    - name: sleeptime
